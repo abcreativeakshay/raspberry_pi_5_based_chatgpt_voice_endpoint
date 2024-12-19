@@ -125,7 +125,7 @@ class VoiceAssistant:
 def main():
     try:
         # Use your API key
-        API_KEY = "your_api_key_here"
+        API_KEY = "your_tuneai_api_key_here"
         
         assistant = VoiceAssistant(api_key=API_KEY)
         assistant.run()

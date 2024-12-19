@@ -1,0 +1,14 @@
+all libraries:
+pip install SpeechRecognition
+pip install gtts
+pip install pygame
+pip install langchain-openai
+
+if code dont work use;
+pip install SpeechRecognition --break-system-packages
+pip install gtts --break-system-packages
+pip install pygame --break-system-packages
+pip install langchain-openai --break-system-packages
+
+Set Up Virtual Environment (optional but recommended):
+python -m venv
